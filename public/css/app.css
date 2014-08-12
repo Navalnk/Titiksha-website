@@ -737,7 +737,7 @@ section .content { display: table-cell; vertical-align: middle; }
 /* CONTACT */
 #contact { background: #c8482f; color: #fff; }
 #contact .wheel, #contact .robot, #contact .envelope { position: absolute; top: 50%; left: 50%; background-size: 100%; background-repeat: no-repeat; }
-#contact .map { width: 100%; height: 100%; background: url('../img/europe.png?1396015796') no-repeat center center; position: absolute; top: 0; left: -135px; z-index: 1; }
+#contact .map { width: 100%; height: 100%; background: url('../img/asia.png?1396015796') no-repeat center center; position: absolute; top: 0; left: -135px; z-index: 1; }
 #contact .robot { width: 140px; height: 211px; background-image: url('../img/robot-red.png?1395905132'); /*margin: -250px 0 0 -180px;*/ z-index: 2; opacity: 0; }
 #contact .wheel { width: 392px; height: 391px; background-image: url('../img/wheel-red.png?1395905174'); margin: -205px 0 0 -110px; z-index: 3; }
 #contact .envelope { width: 329px; height: 272px; background-image: url('../img/shape-envelope.png?1395905135'); margin: -135px 0 0 -200px; z-index: 4; }
@@ -745,16 +745,18 @@ section .content { display: table-cell; vertical-align: middle; }
 #contact .info { max-width: 380px; position: absolute; right: 50%; top: 240px; padding-right: 10px; text-align: right; font-family: 'Open Sans', Arial, sans-serif; }
 #contact .info p { font-size: 14px; font-weight: 400; line-height: 18px; }
 #contact .info address { font-style: normal; font-weight: 800; font-size: 36px; text-transform: uppercase; }
-#contact form { max-width: 480px; position: absolute; left: 50%; top: 0; text-align: left; padding-bottom: 20px; }
+#contact form { max-width: 480px; position: absolute; left: 60%; top: 0; text-align: left; padding-bottom: 20px; }
 #contact form h1 { font-size: 120px; line-height: 104px; }
 #contact form .item { background: #fff; position: relative; margin-bottom: 12px; width: 100%; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; }
 #contact form .item i { background: url('../img/icns-contact-form.png?1395905130') no-repeat; display: inline-block; width: 30px; height: 25px; margin: 3px 0 0 6px; border-right: 1px solid #c8482f; }
 #contact form .item.name i { background-position: 0 0; }
 #contact form .item.email i { background-position: 0 -46px; }
 #contact form .item.phone i { background-position: 0 -91px; }
+#contact form .item.password i { background: url('../img/key1.png') no-repeat;}
+#contact form .item.repass i { background: url('../img/key2.png') no-repeat;}
 #contact form .item.message { height: 145px; }
-#contact form .item.message i { background-position: 0 -137px; }
-#contact form .item input[type="text"], #contact form .item input[type="email"], #contact form .item textarea { background: transparent; position: absolute; top: 3px; bottom: 3px; right: 5px; left: 40px; border: 0 none; font-size: 14px; color: #c8482f; width: 295px; }
+#contact form .item.univ i { background-position: 0 -137px; }
+#contact form .item input[type="text"], #contact form .item input[type="email"],#contact form .item input[type="password"], #contact form .item textarea { background: transparent; position: absolute; top: 3px; bottom: 3px; right: 5px; left: 40px; border: 0 none; font-size: 14px; color: #c8482f; width: 295px; }
 #contact form .item textarea { resize: none; }
 #contact form button[type="submit"] { display: inline-block; background: #fff; border: 0 none; height: 34px; padding: 0 20px; font-family: 'wood_stampregular',verdana,arial,sans-serif; font-weight: normal; font-size: 30px; line-height: 32px; text-transform: uppercase; color: #c8482f; cursor: pointer; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
 #contact form div.error { font-size: 14px; font-family: 'Open Sans',Arial,sans-serif; padding: 0 0 10px 0; }
@@ -773,9 +775,9 @@ section .content { display: table-cell; vertical-align: middle; }
 
 #careers { color: #00b5c5; }
 #careers .content { overflow: auto; display: table; width: 100%; }
-#careers .inner { width: 100%; margin: 0 auto; display: table-cell; vertical-align: middle; }
-#careers .left { width: 0px; }
-#careers .right { width: 0px; }
+#careers .inner { width: 1110px; margin: 0 auto; display: table-cell; vertical-align: middle; }
+#careers .left { width: 630px; }
+#careers .right { width: 480px; }
 #careers .robot { position: relative; width: 290px; height: 340px; -webkit-perspective: 100px; perspective: 100px; z-index: 2; }
 #careers .wantyou { font-family: 'wood_stampregular',verdana,arial,sans-serif; font-weight: normal; font-size: 90px; position: relative; z-index: 1; margin-left: 20px; }
 #careers h1, #careers .wheel, #careers .robot-hat, #careers .robot-head, #careers .robot-hand { position: absolute; top: 0; left: 0; background-size: 100%; background-repeat: no-repeat; }

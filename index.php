@@ -65,21 +65,31 @@
                     <div class="large-gear hsm"><div></div></div>
 
                     <ul>
-                        <li id="slide-programming" class="ltr" data-angles='{"wheel-stroke-1":{"md":{"sa":"1.53","ca":"1.53","ea":"2.15","bw":6},"sm":{"sa":"1.54","ca":"1.54","ea":"2.3","bw":3},"xs":{"sa":"1.54","ca":"1.54","ea":"2.3","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.53","ca":"0.53","ea":"1","bw":6},"sm":{"sa":"0.53","ca":"0.53","ea":"1.17","bw":3},"xs":{"sa":"0.53","ca":"0.53","ea":"1.17","bw":3}}}'>
+                        <li class="ltr" data-angles='{"wheel-stroke-1":{"md":{"sa":"1.53","ca":"1.53","ea":"2.15","bw":6},"sm":{"sa":"1.54","ca":"1.54","ea":"2.3","bw":3},"xs":{"sa":"1.54","ca":"1.54","ea":"2.3","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.53","ca":"0.53","ea":"1","bw":6},"sm":{"sa":"0.53","ca":"0.53","ea":"1.17","bw":3},"xs":{"sa":"0.53","ca":"0.53","ea":"1.17","bw":3}}}'>
                             <img src="public/img/slide-programming.png" alt="">
                             <h2>Computer<span>Programming</span></h2>
                         </li>
-                        <li id="slide-psd2html" class="rtl" data-angles='{"wheel-stroke-1":{"md":{"sa":"0","ca":"0","ea":"0.5","bw":6},"sm":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3},"xs":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.86","ca":"0.86","ea":"1.4","bw":6},"sm":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3},"xs":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3}}}'>
-                            <img src="public/img/slide-psd2html.png" alt="">
-                            <h2>SMVDU Webbed</span></h2>
+                        <li class="rtl" data-angles='{"wheel-stroke-1":{"md":{"sa":"0","ca":"0","ea":"0.5","bw":6},"sm":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3},"xs":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.86","ca":"0.86","ea":"1.4","bw":6},"sm":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3},"xs":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3}}}'>
+                            <img src="public/img/techhunt.png" alt="">
+                            <h2>TechHunt-<br>Online Event</span></h2>
                         </li>
-                        <li id="slide-commerce" class="ltr" data-angles='{"wheel-stroke-1":{"md":{"sa":"1.56","ca":"1.56","ea":"2.15","bw":6},"sm":{"sa":"1.4","ca":"1.4","ea":"2.33","bw":3},"xs":{"sa":"1.4","ca":"1.4","ea":"2.33","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.53","ca":"0.53","ea":"1.02","bw":6},"sm":{"sa":"0.53","ca":"0.53","ea":"1.2","bw":3},"xs":{"sa":"0.53","ca":"0.53","ea":"1.2","bw":3}}}'>
-                            <img src="public/img/slide-commerce.png" alt="">
+                        <li class="ltr" data-angles='{"wheel-stroke-1":{"md":{"sa":"1.56","ca":"1.56","ea":"2.15","bw":6},"sm":{"sa":"1.4","ca":"1.4","ea":"2.33","bw":3},"xs":{"sa":"1.4","ca":"1.4","ea":"2.33","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.53","ca":"0.53","ea":"1.02","bw":6},"sm":{"sa":"0.53","ca":"0.53","ea":"1.2","bw":3},"xs":{"sa":"0.53","ca":"0.53","ea":"1.2","bw":3}}}'>
+                            <img src="public/img/robowar.png" alt="">
                             <h2>Robowar</h2>
                         </li>
-                        <li id="slide-design" class="rtl" data-angles='{"wheel-stroke-1":{"md":{"sa":"0.03","ca":"0.03","ea":"0.5","bw":6},"sm":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3},"xs":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.74","ca":"0.74","ea":"1.41","bw":6},"sm":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3},"xs":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3}}}'>
-                            <img src="public/img/slide-design.png" alt="">
-                            <h2>Workshops</span></h2>
+                        <li class="rtl" data-angles='{"wheel-stroke-1":{"md":{"sa":"0","ca":"0","ea":"0.5","bw":6},"sm":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3},"xs":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.86","ca":"0.86","ea":"1.4","bw":6},"sm":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3},"xs":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3}}}'>
+                            <img src="public/img/architect.png" alt="">
+                            <h2></span>Explore <br>Architecture</h2>
+                        </li>
+
+                        <li class="ltr" data-angles='{"wheel-stroke-1":{"md":{"sa":"1.53","ca":"1.53","ea":"2.15","bw":6},"sm":{"sa":"1.54","ca":"1.54","ea":"2.3","bw":3},"xs":{"sa":"1.54","ca":"1.54","ea":"2.3","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.53","ca":"0.53","ea":"1","bw":6},"sm":{"sa":"0.53","ca":"0.53","ea":"1.17","bw":3},"xs":{"sa":"0.53","ca":"0.53","ea":"1.17","bw":3}}}'>
+                            <img src="public/img/electro.png" alt="">
+                            <h2>Electronics</span></h2>
+                        </li>
+
+                        <li class="rtl" data-angles='{"wheel-stroke-1":{"md":{"sa":"0","ca":"0","ea":"0.5","bw":6},"sm":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3},"xs":{"sa":"1.83","ca":"1.83","ea":"2.49","bw":3}},"wheel-stroke-2":{"md":{"sa":"0.86","ca":"0.86","ea":"1.4","bw":6},"sm":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3},"xs":{"sa":"0.72","ca":"0.72","ea":"1.63","bw":3}}}'>
+                            <img src="public/img/workshop.png" alt="">
+                            <h2></span>Workshops</h2>
                         </li>
                     </ul> <!-- // #homeslider ul -->
 
@@ -320,26 +330,23 @@
                     
                 </div>
 
-            </section> <!-- // #brands -->
+            </section> <!-- // #Sponsors -->
 
 
             <section id="contact" data-title="Contact Us" data-menusnap="true">
 
                 <div class="map hxs"></div>
-                <!--<div class="robot in fade hxs"></div>-->
-                <div class="wheel in finb hxs"></div>
-                <div class="envelope in finb hxs"></div>
-
+                <!--<div class="robot in fade hxs"></div>
+              <div class="wheel in finb hxs"></div>
+               <div class="envelope in finb hxs"></div>-->
                 <div class="content">
 
                     <div class="info in finl hxs">
                         <p></p>
-                        <address>SMVDU,
-                            Katra,Jammu & Kashmir,
-                            India</address>
+                        <address></address>
                     </div> <!-- //#contact .info -->
 
-                    <form action="" method="post" class="in finr">
+                    <form action="/" method="post" class="in finr">
                         <h1>Register Here</h1>
                         <address class="vxs">SMVDU,
                             Katra,Jammu & Kashmir,
@@ -347,61 +354,39 @@
                         <div class="contents">
                             <div class="item name">
                                 <i></i>
-                                <input type="text" name="name" placeholder="Your Name">
+                                <input type="text" name="name"  id="name" placeholder="Your Name">
                             </div>
                             <div class="item email">
-                                <i></i>
-                                <input type="email" name="email" placeholder="Email Address">
-                            </div>
-                            <div class="item name">
-                                <i></i>
-                                <input type="password" name="pass" placeholder="Account Password" style="border:0px;position:relative;top:-5px;">
-                            </div>
-                            <div class="item name">
-                                <i></i>
-                                <input type="password" name="repass" placeholder="Confirm Password" style="border:0px;position:relative;top:-5px;">
+                               <i></i>
+                                <input type="email" name="email" id="email" placeholder="Email Address">
                             </div>
 
                             <div class="item phone">
                                 <i></i>
-                                <input type="text" name="phone" placeholder="Phone Number">
+                                <input type="text" name="phone" id="phone" placeholder="Phone Number">
                             </div>
                             
+                            <div class="item univ">
+                                <i></i>
+                                <input name="college" type="text" size="40" id="college" autocomplete="off" placeholder="University/College"/>
+                            </div>
+
+                            <div class="item password">
+                                <i></i>
+                                    <input name="password" id="password" type="password" autocomplete="off" placeholder="Password"/>
+                            </div>
+
+                            <div class="item repass">
+                                <i></i>
+                                <input name="repassword" id="repassword" type="password" autocomplete="off" placeholder="Re-enter Password"/>
+                            </div>
 
                             <input type="hidden" value="en" name="lang">
-                            <input type="hidden" name="button1" value="signup">
-                            <button type="submit" name="send">Register Now</button>
+                            <button type="submit" id="button_r" name="send">Register Now</button>                            
+                            <div id="register_status" style="font-size:23px;font-style:arial;"></div>
                         </div>
                     </form> <!-- // #contact form -->
-
-
-<?php
-
-include("public\php\connect.php");
-if(isset($_REQUEST["button1"]))
-{
-if($_REQUEST["button1"]=="signup")
-{
-$_REQUEST["button1"]="";
-if(isset($_REQUEST["name"])&&isset($_REQUEST["email"])&&isset($_REQUEST["phone"])&&isset($_REQUEST["pass"])&&isset($_REQUEST["repass"]))
-{
-                if($_REQUEST["pass"]!=$_REQUEST["repass"])
-                echo "Password do not match";
-                else
-                {
-                    $query="Insert into useraccount (username,password,email,phone)values('".$_REQUEST["name"]."','".$_REQUEST["pass"]."','".$_REQUEST["email"]."','".$_REQUEST["phone"]."')";
-                    $result=mysql_query($query)
-                    or die("Query_failed :" .mysql_error());
-                    $rem=mysql_query($quer) or die("Quer fail :".mysql_error());
-                    echo "User created successfully.";
-                }
-}
-}
-}
-mysql_close($mysql);
-?>
-
-
+ 
                 </div> <!-- // .content -->
 
             </section> <!-- // #contact -->
@@ -420,16 +405,17 @@ mysql_close($mysql);
         </div> <!-- // .overlay -->
 
         <div id="careers" class="box-overlay in" data-title="Events">
-            <a href="#" class="close" style="z-index:3000">Exit</a>
+            <a href="#" class="close">Close</a>
             <div class="content">
-                <div class="inner" style="position:absolute;top:5px;height:100%;">
+                <div class="inner">
 
-                <iframe src="GridGallery" width="100%" height="100%" __idm_frm__="20" style="z-index:2000;top:20px;"></iframe>
+                <img src="public/img/coming-soon.jpg" alt="">
 
                 </div> <!-- // .inner -->
             </div> <!-- // .content -->
         </div> <!-- // .overlay -->
-            
+        
+        <div id="story" class="box-overlay in" data-title="Story"></div>
 
         <script>
             var base_title = 'Titiksha 2k14 | Annual tech-fest of Shri Mata Vaishno Devi University';
@@ -437,7 +423,7 @@ mysql_close($mysql);
 
         <!-- jQuery -->
         <script src="public/js/libs/jquery.js"></script>        
-
+        <script src="public/js/app/register.js"></script>
         <script src="public/js/libs/jquery.parallax.min.js"></script>
         <script src="public/js/libs/jquery.touchSwipe.min.js"></script>
         <script src="public/js/libs/jquery.cycle.js"></script>
